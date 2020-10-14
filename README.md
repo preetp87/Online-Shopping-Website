@@ -7,4 +7,5 @@ Username: default
 Password: password
 
 As admin you can generate an inventory sheet to see how many units you have remaining and what revenue you have made.
+You can also create an listing to upload to the site. Please ensure size of image of item is small (300x300 max).
 As customer you can view listings made by the admin and can (fake)buy those listings.
